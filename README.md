@@ -13,6 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+```
 ## 🚀 About Me
 
 🎓 B.Tech in Computer Science & Design
@@ -36,6 +37,7 @@
 📫 Reach Me: **jvjadhav2004@gmail.com**
 
 ---
+```
 
 ## 🚀 About Me
 
