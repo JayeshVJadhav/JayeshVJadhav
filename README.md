@@ -41,39 +41,6 @@
 📫 Reach Me: **jvjadhav2004@gmail.com**
 
 ---
-```
-
-## 🚀 About Me
-
-<p align="left">
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-🎓 B.Tech in Computer Science & Design
-
-💻 Passionate Full Stack Developer
-
-🤖 Working on AI-Powered Face Sketch Generation Systems
-
-🔐 Interested in Cybersecurity & Phishing Website Detection
-
-⚛️ Exploring Quantum Computing & Emerging Technologies
-
-🌱 Currently Learning:
-- Next.js
-- TypeScript
-- Advanced Machine Learning
-- System Design
-
-📍 Pune, Maharashtra, India
-
-📫 Reach Me: **jvjadhav2004@gmail.com**
-
-<br clear="right"/>
-
----
-
-```
 
 ## 🛠️ Tech Stack
 
