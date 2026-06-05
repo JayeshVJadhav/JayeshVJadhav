@@ -62,15 +62,15 @@ Building scalable web applications using React, Next.js, TypeScript, and modern 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshVJadhav&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshVJadhav&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVJadhav&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -78,14 +78,14 @@ Building scalable web applications using React, Next.js, TypeScript, and modern 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=JayeshVJadhav&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayeshVJadhav&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -106,7 +106,7 @@ Building scalable web applications using React, Next.js, TypeScript, and modern 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jvjadhav2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
