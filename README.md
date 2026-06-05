@@ -1,76 +1,133 @@
-# Hi 👋, I'm Jayesh Jadhav
+
+<h1 align="center">Hi 👋, I'm Jayesh Jadhav</h1>
+
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Cybersecurity Learner | Quantum Computing Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cybersecurity+Learner;Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayeshVJadhav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science & Design  
-💻 Full Stack Developer & AI/ML Enthusiast  
-🤖 Working on AI-powered Face Sketch Generation Systems  
-🔐 Interested in Cybersecurity & Phishing Website Detection  
-⚛️ Exploring Quantum Computing and Emerging Technologies  
-🌱 Currently learning Next.js, TypeScript, and Advanced Machine Learning  
+🎓 B.Tech in Computer Science & Design
+
+💻 Passionate Full Stack Developer
+
+🤖 Working on AI-Powered Face Sketch Generation Systems
+
+🔐 Interested in Cybersecurity & Phishing Website Detection
+
+⚛️ Exploring Quantum Computing & Emerging Technologies
+
+🌱 Currently Learning:
+- Next.js
+- TypeScript
+- Advanced Machine Learning
+- System Design
+
 📍 Pune, Maharashtra, India
+
+📫 Reach Me: **jvjadhav2004@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🤖 AI Criminal Face Sketch Generator
-Generate realistic facial sketches from text descriptions using Deep Learning and GAN-based models.
+
+Developing a forensic sketch generation system using:
+
+- GANs
+- CLIP Models
+- Attention-based Networks
+- Deep Learning
+
+Generate realistic facial sketches from textual descriptions.
+
+---
 
 ### 🎣 Phishing Website Detection System
+
 Machine Learning based phishing detection using:
+
 - LASSO Feature Selection
 - Recursive Feature Elimination (RFE)
 - SMOTE Balancing
-- Stacking & Voting Classifiers
+- Stacking Classifiers
+- Voting Classifiers
+
+Built with Python, Scikit-Learn, and Flask.
+
+---
 
 ### 🌐 Full Stack Web Applications
-Building scalable web applications using React, Next.js, TypeScript, and modern backend technologies.
+
+Building scalable and responsive applications using:
+
+- React
+- Next.js
+- TypeScript
+- MongoDB
+- Node.js
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayeshVJadhav&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshVJadhav&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=JayeshVJadhav&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshVJadhav&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVJadhav&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVJadhav&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -78,43 +135,67 @@ Building scalable web applications using React, Next.js, TypeScript, and modern 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JayeshVJadhav&theme=tokyonight&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayeshVJadhav&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayeshVJadhav&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayeshVJadhav&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🌟 Current Goals
+## 🎯 Current Goals
 
-✅ Improve Full Stack Development Skills  
-✅ Build AI-powered Applications  
-✅ Contribute to Open Source Projects  
-✅ Learn Quantum Computing Fundamentals  
+✅ Improve Full Stack Development Skills
+
+✅ Build AI-Powered Applications
+
+✅ Contribute to Open Source Projects
+
+✅ Learn Quantum Computing Fundamentals
+
+✅ Master System Design
+
 ✅ Secure a Software Development / AI Engineer Role
+
+---
+
+## 🌟 Coding Profiles
+
+<p align="left">
+<a href="https://github.com/JayeshVJadhav">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+
+<a href="mailto:jvjadhav2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jvjadhav2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-### 💡 Quote
+## 💡 Favorite Quote
 
 > "The best way to predict the future is to create it."
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+```
