@@ -118,33 +118,6 @@ Building scalable and responsive applications using:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayeshVJadhav&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=JayeshVJadhav&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVJadhav&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayeshVJadhav&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayeshVJadhav&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
@@ -174,22 +147,7 @@ Building scalable and responsive applications using:
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="mailto:jvjadhav2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Replace with your LinkedIn URL -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 ## 💡 Favorite Quote
 
