@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jayesh Jadhav</h1>
 
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Cybersecurity Learner | Quantum Computing Explorer</h3>
+<h3 align="center">Full Stack Developer |  AI/ML Enthusiast |  Quantum Computing Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cybersecurity+Learner;Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+EnthusiastQuantum+Computing+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
