@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer |  AI/ML Enthusiast |  Quantum Computing Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+EnthusiastQuantum;+Computing+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Quantum+Computing+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
