@@ -11,10 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=JayeshVJadhav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```
+
+
 ## 🚀 About Me
+
+<p align="left">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 🎓 B.Tech in Computer Science & Design
 
@@ -69,7 +73,7 @@
 
 ---
 
-
+```
 
 ## 🛠️ Tech Stack
 
